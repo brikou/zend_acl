@@ -1,0 +1,24 @@
+{
+    "name": "brikou/zend_acl",
+    "type": "library",
+    "description": "",
+    "description": "Zend Framework Acl Library",
+    "keywords": [
+        "zend framework",
+        "acl"
+    ],
+    "homepage": "https://github.com/brikou/zend_acl",
+    "license": "Zend Framework",
+    "authors": [
+        {
+            "name": "Zend Technologies USA, Inc.",
+            "homepage": "http://framework.zend.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "Zend\\Acl": "" }
+    }
+}
